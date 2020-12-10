@@ -7,6 +7,7 @@ public class Main {
 
         MetodLogic metodLogic = new MetodLogic();
         metodLogic.Logic();
+        System.out.println("Test");
 
     }
 }

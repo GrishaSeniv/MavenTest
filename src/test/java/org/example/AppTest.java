@@ -17,7 +17,7 @@ public class AppTest
 
     @Test
     public void getResultTest(){
-        System.out.println("TestChanges ");
+        System.out.println("Heloooooooooo ");
         Assert.assertEquals(metodLogic.getExpected(),1.118, 0.001);
     }
 }
